@@ -1,0 +1,89 @@
+{
+    "requestGuid": null,
+    "orderId": null,
+    "status": null,
+    "statusCode": "SUCCESS",
+    "statusMessage": "SUCCESS",
+    "type": null,
+    "response": {
+        "type": "PAYER_TO_PAYEE_TRANSFER",
+        "beneficiaryList": [{
+                            "accountNo": "7042914541",
+                            "submitActionUrl": "https:\/\/trust.paytm.in\/wallet-web\/wrapper\/p2pTransfer",
+                            "contactNo": "7042914541",
+                            "amount": "40.0",
+                            "responseAction": "REDIRECT",
+                            "comment": null,
+                            "type": "PAYER_TO_PAYEE_TRANSFER",
+                            "action": "NOMODAL",
+                            "nickName": "Rajan Yadav",
+                            "payeeSsoId": null,
+                            "emailId": null,
+                            "requestActionUrl": {
+                            "version": null,
+                            "environmentInfo": null,
+                            "operationType": "P2P_TRANSFER",
+                            "metadata": null,
+                            "ipAddress": "127.0.0.1",
+                            "channel": null,
+                            "deviceId": null,
+                            "alipayTxnInfoHolder": null,
+                            "mode": null,
+                            "alipay": false,
+                            "request": {
+                            "amount": null,
+                            "walletTxnGuid": null,
+                            "isLimitApplicable": null,
+                            "source": null,
+                            "currencyCode": null,
+                            "merchantOrderId": null,
+                            "isToVerify": null,
+                            "payeeEmail": null,
+                            "payeeCustId": null,
+                            "payeeMobile": "7042914541",
+                            "comment": null
+                            },
+                            "platformName": "PayTM"
+                            }
+                            }, {
+                            "accountNo": "9350190896",
+                            "submitActionUrl": "https:\/\/trust.paytm.in\/wallet-web\/wrapper\/p2pTransfer",
+                            "contactNo": "9350190896",
+                            "amount": "1.0",
+                            "responseAction": "REDIRECT",
+                            "comment": null,
+                            "type": "PAYER_TO_PAYEE_TRANSFER",
+                            "action": "NOMODAL",
+                            "nickName": "Man Mohini",
+                            "payeeSsoId": null,
+                            "emailId": null,
+                            "requestActionUrl": {
+                            "version": null,
+                            "environmentInfo": null,
+                            "operationType": "P2P_TRANSFER",
+                            "metadata": null,
+                            "ipAddress": "127.0.0.1",
+                            "channel": null,
+                            "deviceId": null,
+                            "alipayTxnInfoHolder": null,
+                            "mode": null,
+                            "alipay": false,
+                            "request": {
+                            "amount": null,
+                            "walletTxnGuid": null,
+                            "isLimitApplicable": null,
+                            "source": null,
+                            "currencyCode": null,
+                            "merchantOrderId": null,
+                            "isToVerify": null,
+                            "payeeEmail": null,
+                            "payeeCustId": null,
+                            "payeeMobile": "9350190896",
+                            "comment": null
+                            },
+                            "platformName": "PayTM"
+                            }
+                            }]
+    },
+    "metadata": null
+}
